@@ -1,4 +1,4 @@
-package tuesdayfeb1;
+package tuesdayfeb2;
 
 public class CopyArray 
 {
@@ -21,7 +21,7 @@ public class CopyArray
 		
 
 		for(int i=0;i<arry2.length;i++){
-			System.out.print(+arry2[i]);
+			System.out.print(arry2[i]);
 		}
 
 
