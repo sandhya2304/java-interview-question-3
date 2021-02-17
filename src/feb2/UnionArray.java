@@ -1,4 +1,4 @@
-package tuesdayfeb2;
+package feb2;
 
 import java.util.Arrays;
 import java.util.HashSet;
